@@ -4,14 +4,13 @@ This repository documents my preparation for the **Certified Penetration Testing
 
 The goal is to track my learning progress while studying the **Penetration Tester Job Role Path** on HTB Academy.
 
-Progress - 01/28
+## Progress (01/28 modules)
 
-✔ Penetration Testing Process
-⬜ Information Gathering
-⬜ Enumeration
-⬜ Web Exploitation
-⬜ Privilege Escalation
-
+- ✅ Penetration Testing Process
+- ⬜ Information Gathering
+- ⬜ Enumeration
+- ⬜ Web Exploitation
+- ⬜ Privilege Escalation
 ---
 
 ## Study Plan
